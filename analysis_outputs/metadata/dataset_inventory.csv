@@ -1,0 +1,6 @@
+folder_name,folder_path,file_count,extensions,expected_type
+train_images/authentic,/content/drive/MyDrive/Scientific Image Data/train_images/authentic,2377,{'.png': 2377},image
+train_images/forged,/content/drive/MyDrive/Scientific Image Data/train_images/forged,2751,{'.png': 2751},image
+train_masks,/content/drive/MyDrive/Scientific Image Data/train_masks,2751,{'.npy': 2751},mask
+supplemental_images,/content/drive/MyDrive/Scientific Image Data/supplemental_images,48,{'.png': 48},image
+supplemental_masks,/content/drive/MyDrive/Scientific Image Data/supplemental_masks,48,{'.npy': 48},mask

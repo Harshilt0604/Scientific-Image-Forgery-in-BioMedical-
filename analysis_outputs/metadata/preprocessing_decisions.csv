@@ -1,0 +1,7 @@
+decision_name,decision_value
+reference_space,image
+mask_alignment_rule,resize mask to image size using nearest-neighbor interpolation
+primary_training_unit,patch
+primary_patch_size,512
+oversample_groups,"tiny, small"
+augmentation_reason,forgery detection is sensitive to subtle local image statistics
