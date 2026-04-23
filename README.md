@@ -136,6 +136,3 @@ Evaluation with **Test-Time Augmentation (TTA)** — predictions averaged across
 
 Python · PyTorch · segmentation-models-pytorch · Albumentations · NumPy · Pandas · Kaggle T4 GPU
 
----
-
-## Repository shared with `lsaheer` (module leader) as required by coursework submission guidelines.
